@@ -26,7 +26,7 @@ This notebook is Binder enabled and can be run on [mybinder.org](https://mybinde
 
 
 ### KA_01_PredictingCMEArrivalTimeThroughDataIntegrationAndEnsembleLearning.ipynb (Jupyter Notebook for CMENet)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/SEP-prediction/HEAD?labpath=YA_01_PredictingSEPUsingBiLSTM.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/CMETNet/HEAD?labpath=KA_01_PredictingCMEArrivalTimeThroughDataIntegrationAndEnsembleLearning.ipynb)
 
 Please note that starting Binder might take some time to create and start the image.
 
