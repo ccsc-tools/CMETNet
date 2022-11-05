@@ -22,3 +22,14 @@ coefficient of 0.83 and a mean absolute error of 9.75 h.</p>
 <p>References:</p>
 Predicting CME Arrival Time through Data Integration and Ensemble Learning, Frontiers in Astronomy and Space Sciences, 2022</p>
 <p>https://www.frontiersin.org/articles/10.3389/fspas.2022.1013345/full</p>
+
+|Library | Version   | Description  |
+|---|---|---|
+| astropy | 4.0.2| Astronomy in Python for image processing and more|
+|numpy| 1.19.1| Array manipulation|
+|scikit-learn| 1.0.2| Machine learning|
+|scikit-image| 0.19.2 | Image processing|
+| pandas|1.2.4| Data loading and manipulation|
+| tensorflow| 2.4.1| Deep learning tool|
+| tensorflow-gpu| 2.4.1| Deep learning tool for high performance computation |
+| xgboost| 1.5.0 | Optimized distributed gradient boosting library |
