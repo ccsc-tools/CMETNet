@@ -36,6 +36,9 @@ For the latest updates of the tool refer to https://github.com/deepsuncode/CMETN
 | tensorflow-gpu| 2.4.1 | GPU utlization for Deep learning algorithms |
 | xgboost| 1.5.0 | Gradient boosted trees algorithm |
 | astropy| 4.0.2 | Framework for commonly-used astronomy tools |
+| matplotlib| 3.6.2 | Visutalization tool |
+
+
 
 In order to use the code to run some predictions, you should use the exact version of Python and its packages stated above. 
 Other versions are not tested, but they should work if you have the environment set properly to run deep learning jobs.
