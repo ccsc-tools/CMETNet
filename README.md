@@ -1,4 +1,5 @@
 # Predicting CME Arrival Time through Data Integration and Ensemble Learning
+[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons/cmenet.svg)](https://zenodo.org/record/7320334#.Y3MDt3bMJD8)
 <p>Khalid A. Alobaid, Yasser Abduallah, Jason T. L. Wang, Haimin Wang </p>
 <p>The Sun constantly releases radiation and plasma into the heliosphere.
 Sporadically, the Sun launches solar eruptions such as flares and coronal
