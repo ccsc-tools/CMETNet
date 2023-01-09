@@ -21,13 +21,6 @@ CMETNet performs better than existing machine learning methods
 reported in the literature, with a Pearson product-moment correlation
 coefficient of 0.83 and a mean absolute error of 9.75 h.</p>
 
-## Binder
-
-This notebook is Binder enabled and can be run on [mybinder.org](https://mybinder.org/) by using the link below.
-
-
-### KA_01_PredictingCMEArrivalTimeThroughDataIntegrationAndEnsembleLearning.ipynb (Jupyter Notebook for CMENet)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/CMETNet/HEAD?labpath=KA_01_PredictingCMEArrivalTimeThroughDataIntegrationAndEnsembleLearning.ipynb)
 
 Please note that starting Binder might take some time to create and start the image.
 
