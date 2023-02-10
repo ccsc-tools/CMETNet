@@ -25,13 +25,14 @@ coefficient of 0.83 and a mean absolute error of 9.75 h.</p>
 For the latest updates of the tool refer to https://github.com/deepsuncode/CMETNet
 
 ## Installation on local machine
+Tested on Python 3.9.13 and the following version of libraries on a local CPU
 |Library | Version   | Description  |
 |---|---|---|
-| astropy | 4.0.2| Astronomy in Python for image processing and more|
-|numpy| 1.19.1| Array manipulation|
-|scikit-learn| 1.0.2| Machine learning|
+| astropy | 5.1| Astronomy in Python for image processing and more|
+|numpy| 1.21.6| Array manipulation|
+|scikit-learn| 1.2.1| Machine learning|
 |scikit-image| 0.19.2 | Image processing|
-| pandas|1.2.4| Data loading and manipulation|
-| tensorflow| 2.4.1| Deep learning tool|
-| tensorflow-gpu| 2.4.1| Deep learning tool for high performance computation |
+| pandas|1.4.4| Data loading and manipulation|
+| tensorflow| 2.11.0| Deep learning tool|
 | xgboost| 1.5.0 | Optimized distributed gradient boosting library |
+| matplotlib|3.5.2| Visualization tool|
