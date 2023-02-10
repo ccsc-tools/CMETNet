@@ -23,24 +23,21 @@ with a Pearson product-moment correlation coefficient of 0.83 and a mean absolut
 For the latest updates of the tool refer to https://github.com/deepsuncode/CMETNet
 
 ## Prerequisites
+The specified version of Python and its packages are required to run on a local CPU.
 | Library | Version | Description  |
 |---|---|---|
-| python| 3.8.13 | Programming language|
-| cuda| 10.1 | Toolkit to develop, optimize, and deploy your applications on GPU|
-| cudnn| 7.6.5 | Deep Neural Network library|
-| numpy| 1.19.1 | Mathematical functions to operate on arrays|
-| scikit-learn| 1.0.2 | Machine learning algorithms|
-| scikit-image| 0.19.2 | Image preprocessing |
-| pandas|1.2.4 | Data loading and manipulation|
-| tensorflow| 2.4.1 | Machine learning ecosystem|
-| tensorflow-gpu| 2.4.1 | GPU utlization for Deep learning algorithms |
-| xgboost| 1.5.0 | Gradient boosted trees algorithm |
-| astropy| 4.0.2 | Framework for commonly-used astronomy tools |
-| matplotlib| 3.6.2 | Visutalization tool |
+| python| 3.9.13 | Programming language|
+| astropy | 5.1| Astronomy in Python for image processing and more|
+|numpy| 1.21.6| Array manipulation|
+|scikit-learn| 1.2.1| Machine learning|
+|scikit-image| 0.19.2 | Image processing|
+| pandas|1.4.4| Data loading and manipulation|
+| tensorflow| 2.11.0| Deep learning tool|
+| xgboost| 1.5.0 | Optimized distributed gradient boosting library |
+| matplotlib|3.5.2| Visualization tool|
 
 
 
-In order to use the code to run some predictions, you should use the exact version of Python and its packages stated above. 
 Other versions are not tested, but they should work if you have the environment set properly to run deep learning jobs.
 
 
@@ -56,8 +53,6 @@ Type:
 Note: There is a requirements file already created for you to use that includes all packages with their versions. The files are located in the root directory of the CMETNet.
 Note: Python packages and libraries are sensitive to versions. Please make sure you are using the correct packages and libraries versions as specified above.
 
-Cuda Installation Package:
-You may download and install Cuda v 10.1 from https://developer.nvidia.com/cuda-10.1-download-archive-base
 
 ## Package Structure
 After downloading the zip files from github repository: https://github.com/deepsuncode/CMETNet the CMETNet package includes the following folders and files:
@@ -65,7 +60,7 @@ After downloading the zip files from github repository: https://github.com/deeps
 | File | Description  |
 |---|---|
 | README.md | this  file | 
-|  requirements.txt  | includes Python required packages for Python version 3.8.13| 
+|  requirements.txt  | includes Python required packages for Python version 3.9.13| 
 |  data   | includes data that can be used for training and prediction| 
 |  results | will include the prediction result file(s)| 
 |  CMETNet_CNN_train.py | Python program to train/predict the CMETNet CNN model| 
